@@ -1,0 +1,2 @@
+# 忽略所有node_modules/文件夹下面的内容
+**/node_modules/
