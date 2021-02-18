@@ -30,4 +30,28 @@
 &ensp;&ensp;Facebook 掌舵，社区划桨。Facebook 早在 2015 年就开源了 React Native，至今一直在积极维护和使用。在 2018 年, React Native 的贡献者数量在所有github的项目中 排名第二。如今，遍布世界各地的公司和个人持续地为 React Native 贡献着代码（包括但不限于）：Callstack, Expo, Infinite Red, Microsoft 以及 Software Mansion等。优秀的社区开发者们一直源源不断地贡献着新的项目，将 React Native 拓展到一个又一个新的平台，例如：React Native Windows, React Native macOS 以及 React Native Web等。
 
 
+## Flutter
+
+<br/>
+
+&ensp;&ensp;陈航老师的《深入理解跨平台方案的历史发展逻辑》文章的几张图很不错：
+
+<br/>
+
+![](Flutter/images/Hybrid开发框架.png)
+
+<br/>
+
+![](Flutter/images/泛Web容器框架.png)
+
+<br/>
+
+
+![](Flutter/images/自绘引擎开发框架.png)
+
+<br/>
+
+![](Flutter/images/主流跨平台框架对比.png)
+
+
 
